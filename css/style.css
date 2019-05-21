@@ -6,11 +6,12 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
+  background-image: linear-gradient(to top, #fad0c4 0%, #ffd1ff 100%);
+  background-color: #ffd1ff;
   background-size: cover;
   background-attachment: fixed;
-  font-family: Helvetica, Arial, sans-serif;
-  font-size: 100%;
+  font-family: Pacifico, Helvetica, Arial, sans-serif;
+  font-size: 75%;
 }
 
 .wrapper {
@@ -56,7 +57,7 @@ p {
 }
 
 a {
-  color: black;
+  color: blue;
   text-decoration: none;
 }
 
